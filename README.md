@@ -1,4 +1,4 @@
-Date od Easter - Angle method
+The date of Easter - Angle method
 
 The program calculates and compares Easter dates according to:
 
